@@ -5,7 +5,7 @@
 🚀 Aspiring Software Developer, with a strong interest in applications and game development  
 
 ## 🚀 Tech Stack
-Languages and tools I’ve worked with during my Computer Science degree.
+Languages and tools I’ve worked with during my Computer Science degree, with some actively used in ongoing learning and projects.
 ### 💻 Languages
 
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
