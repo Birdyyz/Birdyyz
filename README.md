@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 🎓 Final-year Computer Science student at Universidade do Minho  
-🚀 Aspiring Software Developer, with a strong interest in applications and game development  
+🎮 Aspiring Software Developer, with a strong interest in applications and game development 
 
 ## 🚀 Tech Stack
 Languages and tools I’ve worked with during my Computer Science degree, with some actively used in ongoing learning and projects.
