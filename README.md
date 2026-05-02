@@ -35,7 +35,3 @@ Languages and tools I’ve worked with during my Computer Science degree, with s
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BIRDYYZ&show_icons=true&theme=tokyonight)
