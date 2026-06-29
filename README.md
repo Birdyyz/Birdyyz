@@ -2,6 +2,7 @@
 
 ## 🧠 About Me
 🎓 Computer Science graduate from Universidade do Minho.
+
 🎮 Aspiring Software Developer, with a strong interest in applications and game development 
 
 ## 🚀 Tech Stack
